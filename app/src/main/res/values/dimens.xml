@@ -2,5 +2,14 @@
 <resources>
 
     <dimen name="altoLogoGoku">500dp</dimen>
+    <dimen name="toolbarAlto">30dp</dimen>
+    <dimen name="cardCornerRadius">4dp</dimen>
+    <dimen name="altoImageViewHome">150dp</dimen>
+
+    //word dimentions
+
+    <dimen name="tamahnoTitulo">20sp</dimen>
+    <dimen name="margin_home_subtitulo">10dp</dimen>
+
 
 </resources>
