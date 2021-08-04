@@ -8,6 +8,8 @@
 
     <ImageView
         android:layout_width="wrap_content"
-        android:layout_height=""></ImageView>
+        android:layout_height="@dimen/altoLogoGoku"
+        android:src="@drawable/goku"
+    </ImageView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
