@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <dimen name="altoLogoGoku">45dp</dimen>
+    <dimen name="altoLogoGoku">500dp</dimen>
 
 </resources>

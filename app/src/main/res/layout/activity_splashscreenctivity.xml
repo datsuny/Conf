@@ -4,12 +4,19 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.activities.SplashscreenFragment">
+    tools:context=".ui.activities.SplashscreenFragment"
+    android:background="@color/colorPrimary">
 
     <ImageView
+        android:id="@+id/kgLogo"
         android:layout_width="wrap_content"
         android:layout_height="@dimen/altoLogoGoku"
-        android:src="@drawable/goku"
+        android:src="@drawable/kid_goku"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
     </ImageView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
