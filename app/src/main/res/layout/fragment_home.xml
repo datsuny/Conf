@@ -28,11 +28,27 @@
                        android:src="@drawable/young_gohan"/>
                     <View
                         android:layout_width="match_parent"
-                        android:layout_height="1dp"/>
+                        android:layout_height="1dp"
+                        android:background="@color/colorPrimary"/>
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/inicio_frag_tv_que_es"
+                        android:textStyle="bold"
+                        android:textSize="@dimen/tamahnoTitulo"
+                        android:textColor="@color/colorPrimaryDark"
+                        android:layout_marginLeft="@dimen/margin_home_subtitulo"
+                        android:layout_marginRight="@dimen/margin_home_subtitulo"
+                        android:layout_marginTop="@dimen/margin_home_subtitulo"/>
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/colorPrimary"
+                        android:layout_marginTop="10dp"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/inicio_frag_tv_que_es_resp"
                         android:textStyle="bold"
                         android:textSize="@dimen/tamahnoTitulo"
                         android:textColor="@color/colorPrimaryDark"

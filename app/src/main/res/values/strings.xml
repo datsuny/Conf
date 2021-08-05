@@ -2,7 +2,9 @@
     <string name="app_name">Conf</string>
 
     <string name="inicio_frag_tv_que_es">¿Qué es Dragon Ball Z?</string>
-    <string name="inicio_frag_tv_que_es_resp">Platzi una vez más, cómo todos los años, hace el evento más grande de comunidad tecnológica en los que apasionados por aprender, emprender e innovar se encuentran en un mismo lugar para escuchar a expertos de la industria que durante horas comparten su conocimiento.</string>
+    <string name="inicio_frag_tv_que_es_resp">Es un manga escrito e ilustrado por Akira Toriyama. Fue publicado originalmente en la revista Shōnen Jump, de la editorial
+        japonesa Shūeisha, entre 1984 y 1995.1​2​ Su trama describe las aventuras de Gokū, un guerrero saiyajin, cuyo fin es proteger a la Tierra de otros seres que quieren conquistarla y
+        exterminar a la humanidad. Conforme transcurre la trama, conoce a otros personajes que le ayudan en este propósito.</string>
     <string name="inicio_frag_tv_por_que">¿Por qué verlo?</string>
     <string name="inicio_frag_tv_por_que_resp">Porque este sentimiento jamas te lo causara otro anime.
 Porque en America Latina la PlatziConf es el único evento de la industria tecnológica que reúne a profesionales de altísimo nivel en un solo lugar.
@@ -15,5 +17,4 @@ Porque en esta versión todo girará al rededor de la pregunta: ¿Qué habilidad
         \u0009 &#8226; Fecha: Sábado 3 de Agosto de 2019.\n
         \u0009 &#8226; Lugar: Centro Cultural Roberto Cantoral.\n
         \u0009 &#8226; Dirección: Puente Xoco s/n, Xoco, 03330 Ciudad de México, CDMX.</string>
-
 </resources>
