@@ -11,7 +11,7 @@
         android:id="@+id/kgLogo"
         android:layout_width="wrap_content"
         android:layout_height="@dimen/altoLogoGoku"
-        android:src="@drawable/kid_goku"
+        android:src="@drawable/son_goku"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"

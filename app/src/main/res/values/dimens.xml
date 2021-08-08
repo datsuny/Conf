@@ -11,6 +11,8 @@
     <dimen name="tamahnoTitulo">20sp</dimen>
     <dimen name="margin_home_subtitulo">10dp</dimen>
     <dimen name="tamahnoSubtitulo">15sp</dimen>
+    <dimen name="itemScheduleTitulo">30sp</dimen>
+    <dimen name="itemScheduleSubTitulo">20sp</dimen>
 
 
 </resources>
